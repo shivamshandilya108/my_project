@@ -1,2 +1,2 @@
-# my_project
-project
+# My_project
+My first open-source project.
